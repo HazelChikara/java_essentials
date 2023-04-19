@@ -24,7 +24,7 @@ public class FillInTheBlanks {
 
         System.out.println("Add a number");
         int number = scanner.nextInt();
-        scanner.close();
+
         System.out.println("On a(n)" + adjective + " " + season + " day, I drink a minimum of" +
                 number + "cups of coffee.");
 
